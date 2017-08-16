@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'HeliosCondLightC';
+  src: url('HeliosCondLightC.eot');
+  src: url('HeliosCondLightC.woff2') format('woff2'),
+       url('HeliosCondLightC.woff') format('woff'),
+       url('HeliosCondLightC.ttf') format('truetype'),
+       url('HeliosCondLightC.svg#HeliosCondLightC') format('svg'),
+       url('HeliosCondLightC.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
